@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import org.w3c.dom.CDATASection;
 
-//@author Giacomo Lucesoli
+
 //@author Thomas Bonacci 
 
 public class Digit_Time2 
