@@ -16,11 +16,8 @@ public class MAIN
 	{
 		String url="https://jobs.github.com/positions.json?description=c%2B%2B";
 		JsonMod [] arrayOBJ=JsonOBJ.StringUrl(url);
-		GUI_MAIN guiMain = new GUI_MAIN();
-		
-		Statistiche ciaoStatistiche = new Statistiche(arrayOBJ);
-		
+		GUI_MAIN guiMain = new GUI_MAIN();		
 		guiMain.Scelta_gui(arrayOBJ);
-		}
+	}
 
 }
