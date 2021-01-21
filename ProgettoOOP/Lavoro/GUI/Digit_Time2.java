@@ -5,8 +5,6 @@ import java.awt.GridLayout;
 import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-
 import javax.management.loading.PrivateClassLoader;
 import javax.swing.ComboBoxModel;
 import javax.swing.DefaultListCellRenderer;
@@ -17,8 +15,10 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
-
 import org.w3c.dom.CDATASection;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class Digit_Time2 
 {
