@@ -2,8 +2,10 @@ package ProgettoOOP.Lavoro.GUI;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.validation.constraints.Pattern.Flag;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class IndButton implements ActionListener
 {
