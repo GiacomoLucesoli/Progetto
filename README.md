@@ -29,6 +29,6 @@
 
 
 > Diagramma dei casi d'uso utilizzato per cominciare i lavori
-![Diagramma casi d'uso](https://github.com/GiacomoLucesoli/Progetto/blob/main/ProgettoOOP/Lavoro/png%20ReadMe/diagramma%20casi%20d'uso.png
+![Diagramma casi d'uso](https://github.com/GiacomoLucesoli/Progetto/blob/main/ProgettoOOP/Lavoro/png%20ReadMe/diagramma%20casi%20d'uso.png)
 > Diagramma delle classi utilizzato per cominciare i lavori
 ![Diagramma classi](https://github.com/GiacomoLucesoli/Progetto/blob/main/ProgettoOOP/Lavoro/png%20ReadMe/diagramma%20classi.png)
