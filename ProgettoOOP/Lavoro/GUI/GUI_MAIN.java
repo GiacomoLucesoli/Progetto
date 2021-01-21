@@ -1,14 +1,13 @@
 package ProgettoOOP.Lavoro.GUI;
 
-
-
 import java.io.IOException;
-
 import org.json.simple.JSONObject;
-
 import ProgettoOOP.Lavoro.Statistiche.BestCities;
 import ProgettoOOP.Lavoro.Statistiche.Statistiche;
 import ProgettoOOP.Lavoro.model.JsonMod;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class GUI_MAIN 
 {
