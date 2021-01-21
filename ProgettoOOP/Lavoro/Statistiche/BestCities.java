@@ -6,7 +6,8 @@ import org.json.simple.JSONObject;
 
 import ProgettoOOP.Lavoro.model.JsonMod;
 //classe per calcolare e ritornare le 2 citt� con pi� valori
-//@author Giacomo Lucesoli 
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 
 public class BestCities {
