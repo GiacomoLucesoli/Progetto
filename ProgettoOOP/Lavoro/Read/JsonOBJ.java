@@ -1,17 +1,15 @@
 package ProgettoOOP.Lavoro.Read;
 
 
-
-
-
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.JSONObject;
-
 import org.json.simple.parser.ParseException;
-
 import ProgettoOOP.Lavoro.GUI.Quantità;
 import ProgettoOOP.Lavoro.model.JsonMod;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class JsonOBJ 
 {
