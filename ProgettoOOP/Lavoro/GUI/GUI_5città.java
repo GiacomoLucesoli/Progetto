@@ -12,8 +12,6 @@ import java.awt.Panel;
 import java.awt.TextArea;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.security.PublicKey;
-
 import javax.management.loading.PrivateClassLoader;
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -26,9 +24,10 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.LineBorder;
 import javax.swing.plaf.basic.BasicBorders.ButtonBorder;
-
-
 import ch.qos.logback.core.pattern.color.BlackCompositeConverter;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class GUI_5città
 {
