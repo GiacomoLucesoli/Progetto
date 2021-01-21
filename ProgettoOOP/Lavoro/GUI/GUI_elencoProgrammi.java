@@ -3,14 +3,15 @@ import java.awt.Color;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
-
 import org.json.simple.JSONObject;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class GUI_elencoProgrammi 
 {
