@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ProgettoOOP.Lavoro.Read","c":"JsonOBJ","l":"JsonOBJ()","url":"%3Cinit%3E()"},{"p":"ProgettoOOP.Lavoro.Read","c":"JsonOBJ","l":"StringUrl(String)","url":"StringUrl(java.lang.String)"}]
