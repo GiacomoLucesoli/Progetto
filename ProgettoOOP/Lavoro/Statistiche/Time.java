@@ -2,6 +2,8 @@ package ProgettoOOP.Lavoro.Statistiche;
 
 import ProgettoOOP.Lavoro.model.JsonMod;
 
+//@author Giacomo Lucesoli 
+
 public class Time {
 	private static int [] time= new int[6];
 	
