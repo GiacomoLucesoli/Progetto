@@ -2,15 +2,16 @@ package ProgettoOOP.Lavoro.GUI;
 
 import java.awt.Color;
 import java.awt.GridLayout;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 import javax.swing.border.LineBorder;
-
 import org.json.simple.JSONObject;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class GUI_QuantitaLavori 
 {
