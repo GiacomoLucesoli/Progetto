@@ -9,7 +9,7 @@
 * Quali altri linguaggi sono richiesti e quanti lavori li richiedono
 * Quali città posseggono il maggior numero di lavori dopo una data inserita dall'utente
 
-###### Diagramma dei casi d'uso utilizzato per cominciare i lavori
+####### Diagramma dei casi d'uso utilizzato per cominciare i lavori
 ![Diagramma casi d'uso](https://github.com/GiacomoLucesoli/Progetto/blob/main/diagramma%20casi%20d'uso.png)
 ###### Diagramma delle classi utilizzato per cominciare i lavori
 ![Diagramma classi](https://github.com/GiacomoLucesoli/Progetto/blob/main/diagramma%20classi.png)
