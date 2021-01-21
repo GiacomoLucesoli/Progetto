@@ -2,6 +2,9 @@ package ProgettoOOP.Lavoro.Statistiche;
 
 import ProgettoOOP.Lavoro.model.JsonMod;
 
+//@author Giacomo Lucesoli 
+//@author Thomas Bonacci
+
 public class Confronto {
 	public static void confronta (JsonMod [] arrayOBJ,String [] citta) {
 		for (int i=0;i<arrayOBJ.length; i++) {
