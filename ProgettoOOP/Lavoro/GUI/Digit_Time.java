@@ -5,12 +5,14 @@ import java.awt.GridLayout;
 import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.management.loading.PrivateClassLoader;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class Digit_Time 
 {
