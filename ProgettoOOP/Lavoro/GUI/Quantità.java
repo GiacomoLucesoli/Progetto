@@ -5,7 +5,6 @@ import java.awt.GridLayout;
 import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -13,10 +12,12 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.validation.constraints.Pattern.Flag;
-
 import org.apache.tomcat.util.bcel.Const;
 import org.json.simple.JSONObject;
 import org.springframework.web.client.HttpClientErrorException.Gone;
+
+//@author Giacomo Lucesoli
+//@author Thomas Bonacci 
 
 public class Quantità 
 {
