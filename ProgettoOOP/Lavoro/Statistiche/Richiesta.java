@@ -1,6 +1,8 @@
 package ProgettoOOP.Lavoro.Statistiche;
 import java.util.Scanner;
 
+//@author Giacomo Lucesoli 
+
 public class Richiesta {
 	static String [] citta = new String [5];
 	public static void SetCitta() {
