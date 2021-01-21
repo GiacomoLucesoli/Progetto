@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-//@author Giacomo Lucesoli
+
 //@author Thomas Bonacci 
 
 public class Digit_Time 
