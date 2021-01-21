@@ -1,5 +1,5 @@
 # ProgettoOOp
-###### Progetto per l'esame di programmazione ad oggetti, Università Politecnica delle Marche, Anno 2019/2020
+###### Progetto per l'esame di programmazione ad oggetti, Università Politecnica delle Marche, Anno 2020/2021
 ## Introduzione
 ###### Il seguente progetto è un applicazione con una GUI che permette ad un Client di interagire con Jobs GitHub e filtrare i lavori presenti in esso dove è richiesta una competenza di programmazione nel linguaggio C++
 ###### Permette quindi di sapere per ciascuna delle 5 città selezionate dall'utente
