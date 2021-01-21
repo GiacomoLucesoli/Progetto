@@ -1,6 +1,6 @@
 package ProgettoOOP.Lavoro.model;
 
-//@author Giacomo Lucesoli
+
 //@author Thomas Bonacci 
 
 public class JsonMod 
